@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RickRisotto
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning pandas 
+- 🌱 I’m currently learning django 
 - 💞️ I’m looking to collaborate on future
 - 📫 How to reach me rickrisotto@gmail.com, https://www.facebook.com/RickRizotto, https://www.instagram.com/rick_rizotto
 
